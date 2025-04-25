@@ -108,6 +108,10 @@ This guide will walk you through opening an AWS account, uploading a file to S3 
    }
    ```
 
-   - Click **Next**, name the policy (e.g., `S3UploadOnly`), and save.
+## Contributing
 
----
+Feel free to open issues and submit pull requests for improvements.
+
+## Contact
+
+For any questions or support, contact [marzan666@gmail.com](mailto:marzan666@gmail.com).
